@@ -1,0 +1,14 @@
+layout_spectrum: 0.6478839
+typography_spectrum: 0.7568533
+color:
+  saturation: 0.3282133
+  lightness: 0.851776
+  brandStrength: 0.05471677
+  rhythmicContrast: 0.2496781
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: TDCannon
